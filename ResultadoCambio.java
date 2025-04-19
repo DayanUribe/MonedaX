@@ -1,0 +1,1 @@
+public record ResultadoCambio(double original, double resultado) {}
